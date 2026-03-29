@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Under which constitutional provision has the Public Interest Litigation been filed?",
+    "ground_truth": "The Public Interest Litigation has been filed under Article 32 of the Constitution of India."
+  },
+  {
+    "question": "What provision of the Motor Vehicles Act is being challenged in the petition?",
+    "ground_truth": "The petition challenges the constitutional validity of the proviso inserted to Section 166(3) of the Motor Vehicles Act, 1988 by the Motor Vehicles (Amendment) Act, 2019."
+  },
+  {
+    "question": "What limitation period for filing compensation claims is introduced by the amendment?",
+    "ground_truth": "The amendment introduces a limitation period of six months from the date of the accident to file compensation claims."
+  },
+  {
+    "question": "Why does the petitioner argue that the six-month limitation is harmful?",
+    "ground_truth": "The petitioner argues that the six-month limitation leads to dismissal of genuine claims and defeats the welfare objective of the Motor Vehicles Act."
+  },
+  {
+    "question": "What was the rule regarding limitation before the Motor Vehicles Amendment Act 2019?",
+    "ground_truth": "Before the amendment there was no limitation period for filing compensation claims under Section 166."
+  },
+  {
+    "question": "Who is the petitioner described in the case?",
+    "ground_truth": "The petitioner is a social activist working for the welfare and rights of road accident victims and their families."
+  },
+  {
+    "question": "Which government authority is named as the respondent in the petition?",
+    "ground_truth": "The respondent is the Union of India through the Secretary of the Ministry of Road Transport and Highways."
+  },
+  {
+    "question": "What responsibility does Section 159 assign to the police?",
+    "ground_truth": "Section 159 mandates police officers to prepare and submit an Accident Information Report to the Claims Tribunal within three months."
+  },
+  {
+    "question": "Which fundamental rights does the petitioner claim are violated?",
+    "ground_truth": "The petitioner claims that the proviso violates Articles 14 and 21 of the Constitution of India."
+  },
+  {
+    "question": "What interim relief has been requested in the petition?",
+    "ground_truth": "The petitioner requests the court to direct Motor Accident Claims Tribunals across India to accept claims filed beyond six months until the petition is decided."
+  },
+  {
+    "question": "Why is the six-month limitation argued to be arbitrary?",
+    "ground_truth": "It is argued to be arbitrary because it creates an inflexible bar to compensation claims without considering the circumstances or trauma of victims."
+  },
+  {
+    "question": "What type of legislation is the Motor Vehicles Act considered to be?",
+    "ground_truth": "The Motor Vehicles Act is considered beneficial legislation intended to protect road accident victims."
+  }
+]

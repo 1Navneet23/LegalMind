@@ -10,7 +10,7 @@ def main():
         print("Loading document...")
 
         # Load and process document
-        full_text = py_reader()
+        full_text = py_reader("data/legal/PL.pdf")
         chunks = text_splitter(full_text)
         embeddings = get_embeddings(chunks)
        #store_embeddings(chunks)
